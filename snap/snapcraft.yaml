@@ -66,6 +66,9 @@ parts:
       - libsndfile1-dev
       - libg15daemon-client-dev
       - libxi-dev
+      - libmesa-dev
+      - libglu1-mesa-dev
+      - mesa-common-dev
     stage-packages:
       - libavahi-compat-libdnssd1
       - libg15daemon-client1
